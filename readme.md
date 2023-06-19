@@ -16,9 +16,9 @@ This is a prototype of a non-linear video streaming platform
 - Identifying users for authentication and showing contents.
 - Efficient streaming techniques to load GB sized videos within seconds.
 - Tracking watched videos list against the users
-- Last watched time-line also will be tracked
+- The last watched time-line also will be tracked
 - After sign-in, the last watched video will be played by default.
-- All the videos will streamed from the last watched location.
+- All the videos will be streamed from the last watched location.
 
 ## Installation
 
