@@ -4,9 +4,11 @@
 An express application to stream videos
 
 ## Author
+
 Ajun Ravi
 
 ## Description
+
 This is a prototype of a non-linear video streaming platform
 
 ## Features
