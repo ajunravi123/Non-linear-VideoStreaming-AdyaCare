@@ -7,7 +7,7 @@
     "start": "nodemon server"
   },
   "keywords": [],
-  "author": "",
+  "author": "Ajun Ravi",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
