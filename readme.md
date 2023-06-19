@@ -44,7 +44,7 @@ This is a prototype of a non-linear video streaming platform
     node server.js
 
 
-Access the API documentation:
+Access the Application:
 
 Open your web browser and navigate to http://localhost:3001.
 
