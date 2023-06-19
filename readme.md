@@ -26,7 +26,7 @@ This is a prototype of a non-linear video streaming platform
 
    ```shell
    git clone https://github.com/ajunravi123/Non-linear-VideoStreaming-AdyaCare.git
-   
+
    cd Non-linear-VideoStreaming-AdyaCare
 
 2. Download the video files and add to /videos folder
@@ -58,6 +58,11 @@ OR
 ```sh
 http://localhost:3001
 ```
+
+
+![Screenshot](https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81q4_63dPWwLRtDUAcgj6cpCCtmBcFARuEReQan239tdukTDqOYr9Jwpy7KQrxt8SSBzxAvpykjUTHdPD_yyz_YUXJskUQ=w1920-h932)
+
+
 
 Usage
 - To add more videos, modify /videos.json file and add the video file to /videos folder.
