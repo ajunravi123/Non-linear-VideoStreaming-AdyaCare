@@ -67,3 +67,6 @@ http://localhost:3001
 Usage
 - To add more videos, modify /videos.json file and add the video file to /videos folder.
 
+
+Note: This is just a prototype. Database, Cache, Fast CDN, and all those things need to be implemented for a production ready application.
+
