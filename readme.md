@@ -17,7 +17,7 @@ This is a prototype of a non-linear video streaming platform
 - Efficient streaming techniques to load GB sized videos within seconds.
 - Tracking watched videos list against the users
 - Last watched time-line also will be tracked
-- On sign-in, the last wated video will be played by default.
+- After sign-in, the last watched video will be played by default.
 - All the videos will streamed from the last watched location.
 
 ## Installation
@@ -26,6 +26,7 @@ This is a prototype of a non-linear video streaming platform
 
    ```shell
    git clone https://github.com/ajunravi123/Non-linear-VideoStreaming-AdyaCare.git
+   
    cd Non-linear-VideoStreaming-AdyaCare
 
 2. Download the video files and add to /videos folder
